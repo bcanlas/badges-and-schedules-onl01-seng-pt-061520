@@ -5,9 +5,9 @@ end
 
 
 def batch_badge_creator(array)
-  batch_badge_creator = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
-  badges. each do |atendees|
+  newarray = []
+  badges.each do |atendees|
        puts "Hello, my name is #{atendees}."
-  end
-batch_badge_creator
-end
+    end
+  end  
+    
